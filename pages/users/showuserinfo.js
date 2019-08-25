@@ -47,6 +47,8 @@ class ShowJobSeeker extends Component {
       {
         header: appliedJobs,
         meta: 'Job Positions User Applied To',
+        style: { overflowWrap: 'break-word' }
+
       },
       {
         header: emailAddress,
