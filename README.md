@@ -11,4 +11,6 @@ Packages required: next, next-routes, react, react-dom, semantic-ui-css, semanti
 
 **Job List**
 ![joblist](/screenshots/joblist.png)
-Format: ![Alt Text](url)
+
+**Job Information**
+![jobinfo](/screenshots/jobinfo.png)
