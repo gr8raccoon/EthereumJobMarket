@@ -10,6 +10,7 @@ Packages required: next, next-routes, react, react-dom, semantic-ui-css, semanti
 # DApp Screenshots
 
 ***Job List Page**
+
 This page provides UI to observe available jobs, post new jobs (for companies) and contains links for job details
 
 ![joblist](/screenshots/joblist.png)
